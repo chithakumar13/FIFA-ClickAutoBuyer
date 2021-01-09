@@ -41,6 +41,7 @@
 <!-- installation -->
 ## Installation  
 
+* Video Guid - https://www.youtube.com/watch?v=LG-pG1VkCv8
 * Download FIFA.21.AutoBuyer.rar from - [Latest Release](https://github.com/chithakumar13/FIFA-ClickAutoBuyer/releases/).
 * Unzip FIFA.21.AutoBuyer.rar.
 * Run FIFAAutoBuyer-Client.exe from the unzipped folder. 
