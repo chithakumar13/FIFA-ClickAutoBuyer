@@ -42,7 +42,7 @@
 ## Installation  
 
 * Video Guide - https://www.youtube.com/watch?v=LG-pG1VkCv8
-* Download and install .Net RunTime From here(id you dont already have) - https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-desktop-3.1.9-windows-x64-installer
+* Download and install .Net RunTime From here(if you dont already have) - https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-desktop-3.1.9-windows-x64-installer
 * Download FIFA.21.AutoBuyer.rar from - [Latest Release](https://github.com/chithakumar13/FIFA-ClickAutoBuyer/releases/).
 * Unzip FIFA.21.AutoBuyer.rar.
 * Run FIFAAutoBuyer-Client.exe from the unzipped folder. 
